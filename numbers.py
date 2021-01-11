@@ -11,5 +11,5 @@ for num in Input:
        print(num, end = " ") 
        
 # The output of numbers will be like this
-Output= 10 25 0
+# Output= 10 25 0
        
